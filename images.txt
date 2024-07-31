@@ -1,3 +1,4 @@
+apache/doris:build-env-for-2.0
 nginx
 mysql
 openjdk:8u342-jdk
