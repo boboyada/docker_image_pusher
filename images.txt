@@ -1,6 +1,6 @@
-apache/doris:build-env-for-2.0
-nginx
-mysql
+#apache/doris:build-env-for-2.0
+#nginx
+#mysql
 openjdk:8u342-jdk
 openjdk:17.0.2-jdk
 #支持私库
