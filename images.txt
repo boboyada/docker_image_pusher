@@ -5,7 +5,6 @@ starrocks/fe-ubuntu:3.1.14
 starrocks/be-ubuntu:3.1.14
 starrocks/cn-ubuntu:3.1.14
 starrocks/artifacts-ubuntu:3.1.14
-
 #nginx
 #mysql
 openjdk:8u342-jdk
