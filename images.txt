@@ -1,10 +1,5 @@
 starrocks/allin1-ubuntu：3.1.14
-#apache/doris:build-env-for-2.0
-#apache/doris:doris-all-in-one-2.1.0
-#starrocks/fe-ubuntu:3.1.14
-#starrocks/be-ubuntu:3.1.14
-#starrocks/cn-ubuntu:3.1.14
-#starrocks/artifacts-ubuntu:3.1.14
+apache/doris:doris-all-in-one-2.1.0
 #nginx
 #mysql
 openjdk:8u342-jdk
@@ -13,4 +8,4 @@ openjdk:17.0.2-jdk
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 xiaoyaliu/alist
