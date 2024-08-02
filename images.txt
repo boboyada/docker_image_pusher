@@ -1,4 +1,5 @@
-starrocks/allin1-ubuntu
+#starrocks/allin1-ubuntu
+starrocks/allin1-ubuntu:3.3.1
 #apache/doris:doris-all-in-one-2.1.0
 #nginx
 #mysql
