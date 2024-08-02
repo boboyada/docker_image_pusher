@@ -1,4 +1,5 @@
 #apache/doris:build-env-for-2.0
+starrocks/allin1-ubuntu：3.1.14
 #nginx
 #mysql
 openjdk:8u342-jdk
