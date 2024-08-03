@@ -1,3 +1,4 @@
+apache/hadoop:3.3.6
 minio/minio:latest
 starrocks/fe-ubuntu:3.2-latest
 starrocks/cn-ubuntu:3.2-latest
